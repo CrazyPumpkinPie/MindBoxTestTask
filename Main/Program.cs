@@ -7,8 +7,9 @@ namespace Main
     {
         static void Main(string[] args)
         {
-            Circle circle = new Circle(8);
-            Console.WriteLine(circle.FindArea());
+            Triangle triangle = new Triangle(3,4,5);
+            Console.WriteLine(triangle.FindArea());
+            Console.WriteLine(triangle.IsRectangular);
         }
     }
 }
