@@ -24,3 +24,5 @@ CREATE TABLE ProductCategories (
   SELECT p.Name AS 'Product Name', c.Name AS 'Category Name' FROM Products p
   LEFT JOIN ProductCategories pc ON p.Id = pc.ProductId LEFT JOIN Categories c ON pc.CategoryId = c.Id;
   ```
+  ## Результаты:
+![SQL Results](https://user-images.githubusercontent.com/103962183/214548399-047b9447-5886-490f-9b16-4172fbd2abcb.jpg)
