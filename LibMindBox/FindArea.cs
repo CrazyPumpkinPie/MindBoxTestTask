@@ -18,6 +18,7 @@ namespace FindAreaLib
             return true;
         }
     }
+
     public class Circle : Shape
     {
         private double radius;

@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAreaLib", "FindAreaLib.csproj", "{A1FE3B69-9D37-4D16-A599-87404F42BDE8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "..\Main\Main.csproj", "{C1EAA364-7D5A-47C5-9759-ED890110570E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAreaLib", "FindAreaLib.csproj", "{A1FE3B69-9D37-4D16-A599-87404F42BDE8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAreaLib.Tests", "..\LibMindBox.Tests\FindAreaLib.Tests.csproj", "{86003501-6CCA-40DF-99D5-13BB0980FA31}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{A1FE3B69-9D37-4D16-A599-87404F42BDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1FE3B69-9D37-4D16-A599-87404F42BDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1FE3B69-9D37-4D16-A599-87404F42BDE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1EAA364-7D5A-47C5-9759-ED890110570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1EAA364-7D5A-47C5-9759-ED890110570E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1EAA364-7D5A-47C5-9759-ED890110570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1EAA364-7D5A-47C5-9759-ED890110570E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{86003501-6CCA-40DF-99D5-13BB0980FA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{86003501-6CCA-40DF-99D5-13BB0980FA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86003501-6CCA-40DF-99D5-13BB0980FA31}.Release|Any CPU.ActiveCfg = Release|Any CPU

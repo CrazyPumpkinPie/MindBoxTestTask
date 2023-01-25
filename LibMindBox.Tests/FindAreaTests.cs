@@ -47,5 +47,4 @@ namespace FindAreaLib.Tests
             Assert.AreEqual(expected, actual);
         }
     }
-
 }
